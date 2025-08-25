@@ -1,10 +1,6 @@
 ## Cloudmate - Classroom on Cloud :beers:
 
-> _Not available on Google Play Store and AppStore_
-<p>
-<a href="https://apps.apple.com/vn/app/hi-school/id1623113857"><img src="https://askany.com/images/app-store.png" height="60px" width="180px"/></a>
-<a href="https://play.google.com/store/apps/details?id=com.wanted.cloudmate"><img src="https://askany.com/images/ch-play.png" height="60px" width="180px"/></a>
-</p>
+
 
 ### Description
 
@@ -19,6 +15,10 @@ Cloudmate is an open-source online learning platform developed with Flutter to h
 - Communicate with students via messaging system
 - View and analyze quiz results
 
+<img width="1170" height="2532" alt="home" src="https://github.com/user-attachments/assets/ccdefc02-a2d0-49a6-a618-01489f05bed1" />
+<img width="1170" height="2532" alt="details_class" src="https://github.com/user-attachments/assets/2a052562-c07c-418c-b934-9cf59ac00171" />
+<img width="1170" height="2532" alt="class" src="https://github.com/user-attachments/assets/735d2936-a76b-4374-9d94-5b990fe87f7d" />
+<img width="1170" height="2532" alt="profile" src="https://github.com/user-attachments/assets/ffb33611-0060-45fb-b086-84d73f7f0bc5" />
 
 ## Installation
 
